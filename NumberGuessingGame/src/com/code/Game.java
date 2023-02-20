@@ -122,7 +122,7 @@ public class Game extends JFrame {
 		range3.setEditable(false);
 		guess.setEditable(false);
 		setTitle("GUESS THE NUMBER");
-		setSize(500, 350);
+		setSize(500, 360);
 		setVisible(true);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
