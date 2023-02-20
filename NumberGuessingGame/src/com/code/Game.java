@@ -139,9 +139,7 @@ public class Game extends JFrame {
 			}
 
 			rand = r.nextInt(high - low) + low;
-//			System.out.println("high " + high + " low " + low + " random " + rand);
 			calcy = (int) Math.round(Math.log(high - low + 1)) + 1;
-//			System.out.println("calcy " + calcy);
 			range3.setText(calcy + "");
 			inputlabel.setText("Enter the number between " + low + " and " + high + " !!");
 			guess.setEditable(true);
