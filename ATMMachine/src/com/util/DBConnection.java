@@ -11,7 +11,7 @@ public class DBConnection {
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		System.out.println("Driver Loaded");
 //		Create connection
-		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/disha", "root", "root1427");
+		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bank", "root", "pass");
 		System.out.println("connected");
 
 		return con;
