@@ -7,6 +7,9 @@
 - You can find it in script folder, "db.sql" file.
 
 
+![Croped Screenshot (51)](https://user-images.githubusercontent.com/75472065/223351187-60ad0d98-ce35-4b53-9f34-c43c4b1e40da.png)
+
+
 ## Number Guessing Game
 - Developed using swing.
 - The range is editable and so it make the game more interesting.
